@@ -1,0 +1,146 @@
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792766419883}
+{"level":"debug","message":"[vite] connected.","timestamp":1792766425948}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792766607897}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766607898}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792766667427}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766667428}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766667428}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentsPage.tsx","timestamp":1792766667428}
+{"level":"debug","message":"[vite] hot updated: /src/components/DeveloperPage.tsx","timestamp":1792766667428}
+{"level":"debug","message":"[vite] hot updated: /src/components/PolicyPage.tsx","timestamp":1792766667428}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766667429}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792766667429}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766668721}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766668722}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentsPage.tsx","timestamp":1792766668723}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766668724}
+{"level":"debug","message":"[vite] hot updated: /src/components/PolicyPage.tsx","timestamp":1792766668725}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766668725}
+{"level":"debug","message":"[vite] hot updated: /src/components/PolicyPage.tsx","timestamp":1792766676725}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766676726}
+{"level":"debug","message":"[vite] hot updated: /src/components/DeveloperPage.tsx","timestamp":1792766679926}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766679926}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766687243}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766687244}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766698712}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766698712}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766701273}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766701273}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766710221}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766710221}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentsPage.tsx","timestamp":1792766712833}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766712833}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766715178}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766715178}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766717487}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766717487}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766719807}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766719807}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766722934}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766722934}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766725428}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766725428}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766733953}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766733953}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentsPage.tsx","timestamp":1792766742767}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766742767}
+{"level":"debug","message":"[vite] hot updated: /src/components/PolicyPage.tsx","timestamp":1792766745061}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766745061}
+{"level":"debug","message":"[vite] hot updated: /src/components/PolicyPage.tsx","timestamp":1792766747509}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766747510}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766752223}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766752223}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766754723}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766754723}
+{"level":"debug","message":"[vite] connected.","timestamp":1792766819969}
+{"level":"debug","message":"[vite] connected.","timestamp":1792766886502}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766950485}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766950485}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792766950486}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792766950486}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792766951845}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792766951845}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792766951845}
+{"level":"debug","message":"[vite] connected.","timestamp":1792766953323}
+{"level":"debug","message":"[vite] connected.","timestamp":1792766955264}
+{"level":"debug","message":"[vite] connected.","timestamp":1792767118037}
+{"level":"debug","message":"[vite] connected.","timestamp":1792767131273}
+{"level":"debug","message":"[vite] connected.","timestamp":1792767265854}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792767411863}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792767411864}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792767411864}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792767411864}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792767413684}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792767413684}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792767413684}
+{"level":"debug","message":"[vite] connected.","timestamp":1792767417211}
+{"level":"debug","message":"[vite] connected.","timestamp":1792767433042}
+{"level":"debug","message":"[vite] connected.","timestamp":1792768490741}
+{"level":"debug","message":"[vite] connected.","timestamp":1792768492283}
+{"level":"debug","message":"[vite] connected.","timestamp":1792768493997}
+{"level":"debug","message":"[vite] connected.","timestamp":1792769508240}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792769886744}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792769886744}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792769886745}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792769886745}
+{"level":"error","message":"[vite] Failed to reload /src/components/OverviewPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792770052436}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792770052436}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792770052436}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792770052436}
+{"level":"debug","message":"[vite] connected.","timestamp":1792770056515}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792770307190}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792770307191}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792770307191}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792770307191}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792770309466}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792770309466}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792770309467}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792770824738}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792770824740}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792770824741}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792770824742}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792770826022}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792770826022}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792770826022}
+{"level":"debug","message":"[vite] connected.","timestamp":1792770831795}
+{"level":"debug","message":"[vite] connected.","timestamp":1792770894050}
+{"level":"debug","message":"[vite] connected.","timestamp":1792770899706}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771141290}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771141292}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771141292}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792771141293}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771142602}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771142602}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771142602}
+{"level":"debug","message":"[vite] connected.","timestamp":1792771154310}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771480396}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771480397}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771480397}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792771480397}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771481811}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771481811}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771481812}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771745892}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771745893}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771745894}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792771745894}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771747214}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771747214}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771747214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771969314}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771969316}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771969316}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792771969316}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792771970793}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792771970793}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792771970793}
+{"level":"debug","message":"[vite] connected.","timestamp":1792771975213}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792772374691}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792772374692}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792772374692}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentDetailPage.tsx","timestamp":1792772374692}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792772376218}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPage.tsx","timestamp":1792772376218}
+{"level":"debug","message":"[vite] hot updated: /src/components/OverviewPage.tsx","timestamp":1792772376218}
+{"level":"debug","message":"[vite] connected.","timestamp":1792772379530}
+{"level":"debug","message":"[vite] connected.","timestamp":1792772448600}

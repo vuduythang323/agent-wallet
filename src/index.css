@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --bg-gradient: linear-gradient(180deg, #f4f6fb 0%, #f9f7ff 52%, #f5f3ff 100%);
+  --surface: rgba(255, 255, 255, 0.80);
+  --surface-strong: rgba(255, 255, 255, 0.95);
+  --surface-muted: #f4f4f8;
+  --ink: #0f172a;
+  --ink-2: #334155;
+  --muted: #64748b;
+  --subtle: #94a3b8;
+  --border: rgba(15, 23, 42, 0.10);
+  --border-strong: rgba(15, 23, 42, 0.25);
+  --accent: #122d45;
+  --accent-hover: #1a4a75;
+  --focus: #85b1ed;
+  --success: #16a34a;
+  --danger: #dc2626;
+  --warning: #d97706;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg-gradient);
+  min-height: 100dvh;
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+.display {
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.mono {
+  font-family: 'JetBrains Mono', Menlo, monospace;
+}
+
+/* Sonner toast overrides */
+[data-sonner-toaster] {
+  font-family: 'DM Sans', sans-serif !important;
+}

@@ -1,0 +1,10 @@
+[build]
+  builder = "dockerfile"
+  dockerfilePath = "Dockerfile"
+
+[deploy]
+  # Railway injects PORT automatically — the server reads process.env.PORT.
+  healthcheckPath    = "/api/health"
+  healthcheckTimeout = 30
+  restartPolicyType  = "on_failure"
+  restartPolicyMaxRetries = 5
